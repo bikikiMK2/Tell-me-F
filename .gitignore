@@ -1,4 +1,4 @@
 # プロジェクトの除外パス
 /out/
-/.idea
+/.idea/
 /Tell me F.iml
