@@ -10,7 +10,6 @@ public class Main{
            double k = Math.pow(6.33,10^-4);
            double F = (k*(m1)*(m2)/r*r);
         System.out.println("F=" + F + "[N]");
-        // test text message
 
     }
 }
