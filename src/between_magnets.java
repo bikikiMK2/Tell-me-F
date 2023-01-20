@@ -1,4 +1,4 @@
-public class Main{
+public class between_magnets {
     public static void main(String[] args) {
 
         System.out.println("磁極1は何[Wb]ですか？");

@@ -1,4 +1,4 @@
-public class Main2 {
+public class between_electric {
     public static void main(String [] args){
 
         System.out.println("電荷1は何[C]ですか？");
