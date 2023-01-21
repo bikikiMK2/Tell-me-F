@@ -3,7 +3,7 @@ public class between_electric {
 
         System.out.println("電荷1は何[C]ですか？");
         double Q1 = new java.util.Scanner(System.in).nextDouble();
-        System.out.println("磁極2は何[C]ですか？");
+        System.out.println("電荷2は何[C]ですか？");
         double Q2 = new java.util.Scanner(System.in).nextDouble();
         System.out.println("電荷間の距離は何[m]ですか？");
         double r = new java.util.Scanner(System.in).nextDouble();
