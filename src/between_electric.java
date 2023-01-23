@@ -1,6 +1,6 @@
 public class between_electric {
     public static void main(String [] args){
-
+        System.out.println("電荷間に働く静電力[N]を求めます");
         System.out.println("電荷1は何[C]ですか？");
         double Q1 = new java.util.Scanner(System.in).nextDouble();
         System.out.println("電荷2は何[C]ですか？");
