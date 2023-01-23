@@ -1,6 +1,7 @@
 public class between_magnets {
     public static void main(String[] args) {
 
+        System.out.println("磁極間に働く電磁力[N]を求めます");
         System.out.println("磁極1は何[Wb]ですか？");
           double m1 = new java.util.Scanner(System.in).nextDouble();
         System.out.println("磁極2は何[Wb]ですか？");
