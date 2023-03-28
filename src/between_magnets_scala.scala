@@ -8,5 +8,5 @@ object between_magnets_scala extends App {
    val m2 = new Scanner(System.in).nextDouble()
   println("m1,m2間は何[m]?")
    val r = new Scanner(System.in).nextDouble()
-  println(TellmeF_Magnets(m1,m2,r))
+  println("F="+TellmeF_Magnets(m1,m2,r)+"[N]")
 }
