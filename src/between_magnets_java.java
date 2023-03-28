@@ -1,4 +1,4 @@
-public class between_magnets {
+public class between_magnets_java {
     public static void main(String[] args) {
 
         System.out.println("磁極間に働く電磁力[N]を求めます");
