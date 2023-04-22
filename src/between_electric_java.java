@@ -1,5 +1,5 @@
 public class between_electric_java {
-    public static void main(String [] args){
+    public static void main(String[] args){
 
         System.out.println("電荷間に働く静電力[N]を求めます");
         System.out.println("電荷1は何[C]ですか？");
