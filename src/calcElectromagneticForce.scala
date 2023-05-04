@@ -2,7 +2,6 @@ import java.util.Scanner
 
 object calcElectromagneticForce extends App {
   val calcElectromagneticForce: MyValuesType = new MyValuesType {
-
     printf("m1は何[Wb]?")
     val m1: Double = new Scanner(System.in).nextDouble()
     printf("m2は何[Wb]?")
