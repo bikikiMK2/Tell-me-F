@@ -10,6 +10,6 @@ object calcElectromagneticForce extends App {
     val r: Double = new Scanner(System.in).nextDouble()
     override val bettween_magnets_F: Double  = m1 * m2 * bettween_magnets_k / r*r
 
-    printf("F="+bettween_magnets_k+"[N]")
+    printf("F="+bettween_magnets_F+"[N]")
   }
 }
