@@ -2,5 +2,7 @@
 /out/
 /.idea/
 /Tell-me-F.iml
+/.bsp/
 /.vscode/
 /.metals/
+/.scala-build/
