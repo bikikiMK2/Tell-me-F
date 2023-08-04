@@ -1,4 +1,4 @@
-import net.bikikimk2.calcElectromagneticForce.MyValuesType
+import net.bikikimk2.calcelectromagneticforce.MyValuesType
 import java.util.Scanner
 
 object calcElectromagneticForce extends App {
