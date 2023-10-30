@@ -1,3 +1,5 @@
+package main.scala.net.bikikimk2.calcelectromagneticforce
+
 import net.bikikimk2.calcelectromagneticforce.MyValuesType
 import java.util.Scanner
 
