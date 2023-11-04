@@ -11,8 +11,8 @@ object calcElectromagneticForce extends App {
     val m2: Double = new Scanner(System.in).nextDouble()
     printf("磁極間は何[m]?")
     val r: Double = new Scanner(System.in).nextDouble()
-    override val bettween_magnets_F: Double  = m1 * m2 * bettween_magnets_k / r*r
+    override val bettween_magnets_F: Double = m1 * m2 * bettween_magnets_k / r * r
 
-    printf("F="+bettween_magnets_F+"[N]")
+    printf("F=" + bettween_magnets_F + "[N]")
   }
 }
