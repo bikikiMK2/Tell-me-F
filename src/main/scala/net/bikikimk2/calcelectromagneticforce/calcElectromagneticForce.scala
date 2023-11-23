@@ -15,4 +15,5 @@ object calcElectromagneticForce extends App {
 
     printf("F=" + bettween_magnets_F + "[N]")
   }
+
 }
